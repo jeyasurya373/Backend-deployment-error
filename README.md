@@ -1,1 +1,1 @@
-#pls see readme file
+i can't deploy backend i got error while deployment(plese cheack my git repo for both front and backend). here i explain how i programme the page . only after login u can write a post. all posts are coming from mongo db .
